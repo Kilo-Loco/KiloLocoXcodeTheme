@@ -1,4 +1,4 @@
-# KiloLocoXcodeTheme
+# Kilo Loco Xcode Theme
 
 ![Theme Example](/images/kiloLocoRegular.png)
 
