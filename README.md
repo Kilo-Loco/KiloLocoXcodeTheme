@@ -17,4 +17,4 @@ Installation
 	$ cdKiloLocoXcodeTheme
 	$ mkdir -p ~/Library/Developer/Xcode/UserData/FontAndColorThemes/
 	$ cp *.xccolortheme ~/Library/Developer/Xcode/UserData/FontAndColorThemes/ 
-  # And then restart Xcode
+  	 And then restart Xcode
